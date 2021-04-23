@@ -17,7 +17,7 @@ Keeping it simple, the requirement is to configure all networking devices on the
 
 ## Logical Topology
 
-
+The following topology was made using GNS3:
 
 
 ## Roadmap
