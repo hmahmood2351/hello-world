@@ -22,7 +22,10 @@ The following topology was made using GNS3:
 
 ## Roadmap
 
-
+The old fashioned way (by hand!)
+Configuration Management
+Infrastructure as Code, CI/CD pipelines
+Migration of services to a cloud provider
 
 
 ## The Tools
