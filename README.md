@@ -32,3 +32,11 @@ Migration of services to a cloud provider
 
 
 ## The Tools
+
+Fingers
+
+Netmiko
+
+Ansible
+
+TBD
