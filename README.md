@@ -39,4 +39,6 @@ Netmiko
 
 Ansible
 
+Nornir
+
 TBD
