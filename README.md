@@ -19,10 +19,14 @@ Keeping it simple, the requirement is to configure all networking devices on the
 
 The following topology was made using GNS3:
 
+TBD. GNS3 Topology
+
+
 
 ## Roadmap
 
 The old fashioned way (by hand!)
+
 
 Configuration Management
 
