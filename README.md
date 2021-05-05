@@ -34,6 +34,8 @@ Infrastructure as Code, CI/CD pipelines
 
 Migration of services to a cloud provider
 
+NetDevOps (?) principles
+
 
 ## The Tools
 
