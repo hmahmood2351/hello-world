@@ -32,7 +32,7 @@ Configuration Management
 
 Infrastructure as Code, CI/CD pipelines
 
-Migration of services to a cloud provider
+Migration of services to a cloud provider (Azure based)
 
 NetDevOps (?) principles
 
