@@ -12,7 +12,7 @@ I'm still at a learning stage and exploring not only the various tools listed in
 
 ## The Business Requirement
 
-Keeping it simple, the requirement is to configure all networking devices on the topology below (showing a LAN at a branch site) with the MOTD (message of the day) banner being set to "Hello World!".
+Keeping it simple, the requirement is to configure all networking devices on the topology below (showing a LAN at a branch site) with the MOTD (message of the day) banner being set to "Hello World!". That's the baseline as to which success is measured for this project.
 
 
 ## Logical Topology
